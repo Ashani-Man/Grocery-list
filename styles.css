@@ -1,0 +1,44 @@
+
+.mycontainer {
+  width:10000%;
+  overflow:auto;
+}
+.mycontainer div {
+  width: 30%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+     
+}
+.items{
+  height: 30%;
+  display: flex;
+  justify-content:flex-start;
+  flex-direction: row;
+
+}
+.List{
+  background-color: darkgreen;
+  width: 170px;
+  height: 190px;
+  margin: 10;
+
+  
+
+}
+img{
+  width: 170px;
+  height: 190px;
+  margin: 10;
+  
+
+}
+h1:hover{
+  font-size: 50;
+  color: blue;
+
+
+}
+
+
